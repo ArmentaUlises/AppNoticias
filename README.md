@@ -1,6 +1,6 @@
 # AppNoticias
 
-##### aplicación de ionic, en la cual cree una aplicación de noticias parecida a la aplicación de Google News, en base a la clase de Fernando Herrera
+##### Aplicación de ionic, en la cual cree una aplicación de noticias parecida a la aplicación de Google News, en base a la clase de Fernando Herrera
 
 # Instrucciones de instalación
 
